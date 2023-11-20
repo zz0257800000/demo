@@ -81,4 +81,11 @@ public void interfaceTest() {
 	Dog dog = new Dog();
 	dog.run();
 }
+@Test
+public void interfaceTest1() {
+	Car car = new Car();
+	car.run();
+	Dog dog = new Dog();
+	dog.run();
+}
 }
